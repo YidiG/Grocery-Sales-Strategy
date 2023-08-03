@@ -1,0 +1,1001 @@
+﻿Transactions,item1,item2,item3,item4,item5,item6,item7
+1,baguette,soda,herring,crackers,Heineken,olives,corned beef
+2,avocado,crackers,artichoke,Heineken,ham,turkey,sardines
+3,olives,bourbon,Coke,turkey,ice cream,ham,peppers
+4,herring,corned beef,apples,olives,steak,avocado,turkey
+5,sardines,Heineken,chicken,Coke,ice cream,peppers,ham
+6,olives,bourbon,Coke,turkey,ice cream,Heineken,apples
+7,corned beef,peppers,bourbon,crackers,chicken,ice cream,baguette
+8,soda,olives,bourbon,crackers,Heineken,peppers,baguette
+9,corned beef,peppers,bourbon,crackers,chicken,Bordeaux,herring
+10,baguette,sardines,apples,peppers,avocado,steak,turkey
+11,baguette,herring,avocado,artichoke,Heineken,apples,corned beef
+12,herring,corned beef,apples,olives,steak,sardines,Heineken
+13,baguette,sardines,apples,peppers,avocado,steak,ice cream
+14,herring,corned beef,olives,ham,turkey,Coke,apples
+15,olives,bourbon,Coke,turkey,ice cream,artichoke,ham
+16,baguette,herring,avocado,artichoke,Heineken,Coke,turkey
+17,sardines,Heineken,chicken,Coke,ice cream,corned beef,apples
+18,soda,olives,bourbon,crackers,Heineken,baguette,peppers
+19,soda,olives,bourbon,crackers,Heineken,steak,herring
+20,herring,corned beef,olives,ham,turkey,apples,baguette
+21,baguette,herring,avocado,artichoke,Heineken,bourbon,corned beef
+22,soda,olives,bourbon,crackers,Heineken,artichoke,steak
+23,soda,olives,bourbon,crackers,Heineken,corned beef,herring
+24,sardines,Heineken,chicken,Coke,ice cream,apples,baguette
+25,sardines,Heineken,chicken,Coke,ice cream,corned beef,peppers
+26,olives,bourbon,Coke,turkey,ice cream,apples,baguette
+27,olives,bourbon,Coke,turkey,ice cream,soda,avocado
+28,soda,olives,bourbon,crackers,Heineken,artichoke,peppers
+29,olives,bourbon,Coke,turkey,ice cream,sardines,soda
+30,olives,bourbon,Coke,turkey,ice cream,soda,ham
+31,corned beef,peppers,bourbon,crackers,chicken,herring,Coke
+32,baguette,sardines,apples,peppers,avocado,corned beef,chicken
+33,soda,olives,bourbon,crackers,Heineken,Bordeaux,ham
+34,baguette,herring,avocado,artichoke,Heineken,Bordeaux,soda
+35,herring,corned beef,olives,ham,turkey,crackers,baguette
+36,avocado,crackers,artichoke,Heineken,ham,corned beef,sardines
+37,soda,olives,bourbon,crackers,Heineken,apples,steak
+38,baguette,herring,avocado,artichoke,Heineken,soda,ham
+39,sardines,Heineken,chicken,Coke,ice cream,artichoke,steak
+40,soda,olives,bourbon,crackers,Heineken,artichoke,Coke
+41,herring,corned beef,apples,olives,steak,baguette,chicken
+42,sardines,Heineken,chicken,Coke,ice cream,crackers,steak
+43,soda,olives,bourbon,crackers,Heineken,steak,herring
+44,herring,corned beef,olives,ham,turkey,bourbon,Heineken
+45,corned beef,peppers,bourbon,crackers,chicken,ice cream,ice cream
+46,baguette,sardines,apples,peppers,avocado,chicken,steak
+47,baguette,soda,herring,crackers,Heineken,sardines,artichoke
+48,corned beef,peppers,bourbon,crackers,chicken,turkey,ice cream
+49,avocado,crackers,artichoke,Heineken,ham,sardines,herring
+50,soda,olives,bourbon,crackers,Heineken,Bordeaux,avocado
+51,baguette,sardines,apples,peppers,avocado,turkey,ice cream
+52,baguette,soda,herring,crackers,Heineken,olives,avocado
+53,baguette,herring,avocado,artichoke,Heineken,corned beef,chicken
+54,herring,corned beef,olives,ham,turkey,avocado,baguette
+55,baguette,soda,herring,crackers,Heineken,corned beef,ham
+56,sardines,Heineken,chicken,Coke,ice cream,olives,corned beef
+57,baguette,soda,herring,crackers,Heineken,avocado,avocado
+58,soda,olives,bourbon,crackers,Heineken,ham,peppers
+59,corned beef,peppers,bourbon,crackers,chicken,steak,apples
+60,baguette,soda,herring,crackers,Heineken,artichoke,chicken
+61,avocado,crackers,artichoke,Heineken,ham,herring,steak
+62,herring,corned beef,apples,olives,steak,ham,ice cream
+63,baguette,herring,avocado,artichoke,Heineken,steak,turkey
+64,baguette,sardines,apples,peppers,avocado,Bordeaux,crackers
+65,baguette,soda,herring,crackers,Heineken,chicken,corned beef
+66,baguette,sardines,apples,peppers,avocado,crackers,bourbon
+67,herring,corned beef,apples,olives,steak,Coke,soda
+68,olives,bourbon,Coke,turkey,ice cream,sardines,avocado
+69,corned beef,peppers,bourbon,crackers,chicken,soda,ice cream
+70,baguette,sardines,apples,peppers,avocado,bourbon,bourbon
+71,herring,corned beef,olives,ham,turkey,Coke,apples
+72,herring,corned beef,apples,olives,steak,soda,avocado
+73,baguette,sardines,apples,peppers,avocado,turkey,soda
+74,sardines,Heineken,chicken,Coke,ice cream,avocado,baguette
+75,corned beef,peppers,bourbon,crackers,chicken,apples,Coke
+76,herring,corned beef,olives,ham,turkey,peppers,crackers
+77,olives,bourbon,Coke,turkey,ice cream,crackers,corned beef
+78,baguette,herring,avocado,artichoke,Heineken,ham,apples
+79,corned beef,peppers,bourbon,crackers,chicken,steak,turkey
+80,avocado,crackers,artichoke,Heineken,ham,soda,steak
+81,avocado,crackers,artichoke,Heineken,ham,corned beef,baguette
+82,corned beef,peppers,bourbon,crackers,chicken,herring,apples
+83,herring,corned beef,apples,olives,steak,Coke,ham
+84,avocado,crackers,artichoke,Heineken,ham,herring,soda
+85,herring,corned beef,apples,olives,steak,baguette,turkey
+86,herring,corned beef,olives,ham,turkey,chicken,Coke
+87,herring,corned beef,apples,olives,steak,Coke,artichoke
+88,herring,corned beef,olives,ham,turkey,apples,ice cream
+89,avocado,crackers,artichoke,Heineken,ham,steak,olives
+90,baguette,soda,herring,crackers,Heineken,peppers,corned beef
+91,baguette,herring,avocado,artichoke,Heineken,Bordeaux,corned beef
+92,baguette,soda,herring,crackers,Heineken,ice cream,chicken
+93,soda,olives,bourbon,crackers,Heineken,apples,corned beef
+94,corned beef,peppers,bourbon,crackers,chicken,apples,Coke
+95,herring,corned beef,olives,ham,turkey,ice cream,artichoke
+96,sardines,Heineken,chicken,Coke,ice cream,corned beef,corned beef
+97,olives,bourbon,Coke,turkey,ice cream,Heineken,soda
+98,soda,olives,bourbon,crackers,Heineken,steak,sardines
+99,herring,corned beef,apples,olives,steak,peppers,baguette
+100,baguette,sardines,apples,peppers,avocado,soda,Coke
+101,herring,corned beef,olives,ham,turkey,peppers,ice cream
+102,herring,corned beef,olives,ham,turkey,bourbon,bourbon
+103,baguette,soda,herring,crackers,Heineken,peppers,sardines
+104,avocado,crackers,artichoke,Heineken,ham,corned beef,sardines
+105,herring,corned beef,apples,olives,steak,baguette,ham
+106,corned beef,peppers,bourbon,crackers,chicken,baguette,herring
+107,sardines,Heineken,chicken,Coke,ice cream,ham,corned beef
+108,baguette,herring,avocado,artichoke,Heineken,ham,corned beef
+109,soda,olives,bourbon,crackers,Heineken,avocado,chicken
+110,baguette,sardines,apples,peppers,avocado,Heineken,herring
+111,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,olives
+112,baguette,sardines,apples,peppers,avocado,chicken,turkey
+113,sardines,Heineken,chicken,Coke,ice cream,turkey,herring
+114,olives,bourbon,Coke,turkey,ice cream,steak,Heineken
+115,soda,olives,bourbon,crackers,Heineken,ham,avocado
+116,herring,corned beef,olives,ham,turkey,bourbon,sardines
+117,sardines,Heineken,chicken,Coke,ice cream,apples,apples
+118,olives,bourbon,Coke,turkey,ice cream,herring,ham
+119,herring,corned beef,apples,olives,steak,chicken,ham
+120,baguette,herring,avocado,artichoke,Heineken,chicken,crackers
+121,baguette,sardines,apples,peppers,avocado,chicken,artichoke
+122,baguette,soda,herring,crackers,Heineken,bourbon,peppers
+123,soda,olives,bourbon,crackers,Heineken,ice cream,sardines
+124,baguette,herring,avocado,artichoke,Heineken,soda,chicken
+125,corned beef,peppers,bourbon,crackers,chicken,soda,ice cream
+126,herring,corned beef,olives,ham,turkey,crackers,steak
+127,olives,bourbon,Coke,turkey,ice cream,peppers,chicken
+128,soda,olives,bourbon,crackers,Heineken,Coke,chicken
+129,olives,bourbon,Coke,turkey,ice cream,peppers,avocado
+130,avocado,crackers,artichoke,Heineken,ham,chicken,corned beef
+131,baguette,soda,herring,crackers,Heineken,avocado,chicken
+132,herring,corned beef,olives,ham,turkey,apples,steak
+133,soda,olives,bourbon,crackers,Heineken,ham,herring
+134,baguette,herring,avocado,artichoke,Heineken,apples,turkey
+135,sardines,Heineken,chicken,Coke,ice cream,herring,peppers
+136,olives,bourbon,Coke,turkey,ice cream,crackers,baguette
+137,herring,corned beef,olives,ham,turkey,chicken,ice cream
+138,sardines,Heineken,chicken,Coke,ice cream,turkey,ham
+139,avocado,crackers,artichoke,Heineken,ham,chicken,corned beef
+140,baguette,herring,avocado,artichoke,Heineken,chicken,peppers
+141,soda,olives,bourbon,crackers,Heineken,Bordeaux,avocado
+142,sardines,Heineken,chicken,Coke,ice cream,apples,soda
+143,avocado,crackers,artichoke,Heineken,ham,Bordeaux,Coke
+144,baguette,herring,avocado,artichoke,Heineken,bourbon,apples
+145,herring,corned beef,olives,ham,turkey,Coke,Heineken
+146,avocado,crackers,artichoke,Heineken,ham,olives,chicken
+147,soda,olives,bourbon,crackers,Heineken,apples,corned beef
+148,olives,bourbon,Coke,turkey,ice cream,Bordeaux,soda
+149,avocado,crackers,artichoke,Heineken,ham,steak,chicken
+150,herring,corned beef,olives,ham,turkey,soda,crackers
+151,corned beef,peppers,bourbon,crackers,chicken,steak,apples
+152,baguette,soda,herring,crackers,Heineken,avocado,turkey
+153,olives,bourbon,Coke,turkey,ice cream,artichoke,apples
+154,baguette,sardines,apples,peppers,avocado,steak,turkey
+155,corned beef,peppers,bourbon,crackers,chicken,sardines,olives
+156,baguette,herring,avocado,artichoke,Heineken,olives,bourbon
+157,avocado,crackers,artichoke,Heineken,ham,turkey,ice cream
+158,corned beef,peppers,bourbon,crackers,chicken,herring,sardines
+159,herring,corned beef,olives,ham,turkey,artichoke,chicken
+160,herring,corned beef,apples,olives,steak,peppers,peppers
+161,baguette,sardines,apples,peppers,avocado,olives,artichoke
+162,baguette,herring,avocado,artichoke,Heineken,chicken,bourbon
+163,baguette,sardines,apples,peppers,avocado,ham,Coke
+164,sardines,Heineken,chicken,Coke,ice cream,bourbon,avocado
+165,avocado,crackers,artichoke,Heineken,ham,Bordeaux,chicken
+166,herring,corned beef,olives,ham,turkey,soda,peppers
+167,corned beef,peppers,bourbon,crackers,chicken,herring,soda
+168,herring,corned beef,olives,ham,turkey,ice cream,sardines
+169,avocado,crackers,artichoke,Heineken,ham,bourbon,soda
+170,avocado,crackers,artichoke,Heineken,ham,sardines,peppers
+171,corned beef,peppers,bourbon,crackers,chicken,Heineken,ham
+172,baguette,herring,avocado,artichoke,Heineken,olives,peppers
+173,soda,olives,bourbon,crackers,Heineken,corned beef,baguette
+174,olives,bourbon,Coke,turkey,ice cream,steak,Heineken
+175,baguette,soda,herring,crackers,Heineken,bourbon,corned beef
+176,sardines,Heineken,chicken,Coke,ice cream,crackers,ham
+177,herring,corned beef,apples,olives,steak,avocado,avocado
+178,corned beef,peppers,bourbon,crackers,chicken,ham,herring
+179,baguette,soda,herring,crackers,Heineken,olives,ice cream
+180,olives,bourbon,Coke,turkey,ice cream,peppers,steak
+181,herring,corned beef,apples,olives,steak,bourbon,Heineken
+182,baguette,sardines,apples,peppers,avocado,crackers,olives
+183,corned beef,peppers,bourbon,crackers,chicken,turkey,apples
+184,avocado,crackers,artichoke,Heineken,ham,steak,soda
+185,herring,corned beef,olives,ham,turkey,baguette,Heineken
+186,avocado,crackers,artichoke,Heineken,ham,apples,chicken
+187,baguette,soda,herring,crackers,Heineken,Bordeaux,Coke
+188,sardines,Heineken,chicken,Coke,ice cream,herring,bourbon
+189,sardines,Heineken,chicken,Coke,ice cream,herring,apples
+190,olives,bourbon,Coke,turkey,ice cream,crackers,steak
+191,herring,corned beef,apples,olives,steak,bourbon,peppers
+192,avocado,crackers,artichoke,Heineken,ham,bourbon,herring
+193,baguette,herring,avocado,artichoke,Heineken,Bordeaux,sardines
+194,olives,bourbon,Coke,turkey,ice cream,Bordeaux,Heineken
+195,herring,corned beef,olives,ham,turkey,ice cream,soda
+196,herring,corned beef,apples,olives,steak,Heineken,ham
+197,olives,bourbon,Coke,turkey,ice cream,peppers,artichoke
+198,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,olives
+199,olives,bourbon,Coke,turkey,ice cream,Heineken,crackers
+200,corned beef,peppers,bourbon,crackers,chicken,ham,soda
+201,baguette,herring,avocado,artichoke,Heineken,steak,sardines
+202,herring,corned beef,apples,olives,steak,chicken,Coke
+203,baguette,sardines,apples,peppers,avocado,Heineken,ice cream
+204,herring,corned beef,olives,ham,turkey,avocado,steak
+205,avocado,crackers,artichoke,Heineken,ham,ice cream,sardines
+206,herring,corned beef,apples,olives,steak,sardines,bourbon
+207,baguette,sardines,apples,peppers,avocado,steak,ice cream
+208,avocado,crackers,artichoke,Heineken,ham,sardines,corned beef
+209,corned beef,peppers,bourbon,crackers,chicken,Coke,herring
+210,baguette,sardines,apples,peppers,avocado,corned beef,soda
+211,avocado,crackers,artichoke,Heineken,ham,soda,Coke
+212,baguette,herring,avocado,artichoke,Heineken,soda,ice cream
+213,baguette,herring,avocado,artichoke,Heineken,chicken,Coke
+214,sardines,Heineken,chicken,Coke,ice cream,artichoke,baguette
+215,olives,bourbon,Coke,turkey,ice cream,Heineken,baguette
+216,herring,corned beef,apples,olives,steak,crackers,chicken
+217,baguette,herring,avocado,artichoke,Heineken,apples,peppers
+218,herring,corned beef,apples,olives,steak,ham,Heineken
+219,herring,corned beef,apples,olives,steak,Bordeaux,avocado
+220,sardines,Heineken,chicken,Coke,ice cream,olives,soda
+221,soda,olives,bourbon,crackers,Heineken,turkey,steak
+222,soda,olives,bourbon,crackers,Heineken,turkey,corned beef
+223,herring,corned beef,apples,olives,steak,sardines,ice cream
+224,soda,olives,bourbon,crackers,Heineken,sardines,chicken
+225,sardines,Heineken,chicken,Coke,ice cream,apples,artichoke
+226,corned beef,peppers,bourbon,crackers,chicken,turkey,apples
+227,olives,bourbon,Coke,turkey,ice cream,ham,baguette
+228,baguette,soda,herring,crackers,Heineken,turkey,turkey
+229,olives,bourbon,Coke,turkey,ice cream,artichoke,apples
+230,avocado,crackers,artichoke,Heineken,ham,turkey,olives
+231,herring,corned beef,apples,olives,steak,avocado,bourbon
+232,baguette,herring,avocado,artichoke,Heineken,soda,olives
+233,herring,corned beef,apples,olives,steak,peppers,peppers
+234,herring,corned beef,apples,olives,steak,artichoke,avocado
+235,baguette,herring,avocado,artichoke,Heineken,crackers,apples
+236,avocado,crackers,artichoke,Heineken,ham,Bordeaux,steak
+237,baguette,herring,avocado,artichoke,Heineken,bourbon,ham
+238,avocado,crackers,artichoke,Heineken,ham,bourbon,apples
+239,herring,corned beef,apples,olives,steak,baguette,bourbon
+240,baguette,sardines,apples,peppers,avocado,olives,crackers
+241,baguette,sardines,apples,peppers,avocado,bourbon,bourbon
+242,sardines,Heineken,chicken,Coke,ice cream,peppers,bourbon
+243,sardines,Heineken,chicken,Coke,ice cream,herring,apples
+244,avocado,crackers,artichoke,Heineken,ham,apples,ice cream
+245,sardines,Heineken,chicken,Coke,ice cream,bourbon,artichoke
+246,olives,bourbon,Coke,turkey,ice cream,baguette,steak
+247,olives,bourbon,Coke,turkey,ice cream,crackers,chicken
+248,baguette,herring,avocado,artichoke,Heineken,steak,corned beef
+249,sardines,Heineken,chicken,Coke,ice cream,apples,turkey
+250,olives,bourbon,Coke,turkey,ice cream,soda,sardines
+251,herring,corned beef,apples,olives,steak,Bordeaux,artichoke
+252,avocado,crackers,artichoke,Heineken,ham,corned beef,chicken
+253,baguette,soda,herring,crackers,Heineken,avocado,artichoke
+254,olives,bourbon,Coke,turkey,ice cream,Bordeaux,ham
+255,avocado,crackers,artichoke,Heineken,ham,herring,ice cream
+256,sardines,Heineken,chicken,Coke,ice cream,artichoke,steak
+257,soda,olives,bourbon,crackers,Heineken,chicken,herring
+258,baguette,herring,avocado,artichoke,Heineken,Bordeaux,soda
+259,soda,olives,bourbon,crackers,Heineken,avocado,avocado
+260,baguette,sardines,apples,peppers,avocado,bourbon,artichoke
+261,sardines,Heineken,chicken,Coke,ice cream,herring,ham
+262,baguette,sardines,apples,peppers,avocado,artichoke,soda
+263,herring,corned beef,olives,ham,turkey,bourbon,peppers
+264,corned beef,peppers,bourbon,crackers,chicken,baguette,Heineken
+265,herring,corned beef,olives,ham,turkey,Heineken,bourbon
+266,soda,olives,bourbon,crackers,Heineken,peppers,avocado
+267,baguette,soda,herring,crackers,Heineken,artichoke,avocado
+268,sardines,Heineken,chicken,Coke,ice cream,bourbon,corned beef
+269,olives,bourbon,Coke,turkey,ice cream,apples,peppers
+270,baguette,sardines,apples,peppers,avocado,corned beef,crackers
+271,avocado,crackers,artichoke,Heineken,ham,steak,corned beef
+272,soda,olives,bourbon,crackers,Heineken,steak,ice cream
+273,avocado,crackers,artichoke,Heineken,ham,soda,steak
+274,soda,olives,bourbon,crackers,Heineken,ham,baguette
+275,baguette,sardines,apples,peppers,avocado,crackers,steak
+276,soda,olives,bourbon,crackers,Heineken,steak,steak
+277,herring,corned beef,apples,olives,steak,ice cream,Coke
+278,corned beef,peppers,bourbon,crackers,chicken,ham,Heineken
+279,sardines,Heineken,chicken,Coke,ice cream,crackers,soda
+280,herring,corned beef,olives,ham,turkey,chicken,Coke
+281,baguette,sardines,apples,peppers,avocado,steak,crackers
+282,herring,corned beef,apples,olives,steak,artichoke,artichoke
+283,herring,corned beef,apples,olives,steak,Bordeaux,ham
+284,olives,bourbon,Coke,turkey,ice cream,sardines,Heineken
+285,avocado,crackers,artichoke,Heineken,ham,Bordeaux,chicken
+286,olives,bourbon,Coke,turkey,ice cream,apples,baguette
+287,herring,corned beef,olives,ham,turkey,avocado,Heineken
+288,baguette,soda,herring,crackers,Heineken,peppers,avocado
+289,herring,corned beef,apples,olives,steak,ham,baguette
+290,herring,corned beef,apples,olives,steak,soda,baguette
+291,soda,olives,bourbon,crackers,Heineken,chicken,apples
+292,herring,corned beef,olives,ham,turkey,baguette,soda
+293,baguette,soda,herring,crackers,Heineken,ice cream,avocado
+294,baguette,herring,avocado,artichoke,Heineken,ice cream,ham
+295,corned beef,peppers,bourbon,crackers,chicken,steak,ham
+296,baguette,sardines,apples,peppers,avocado,bourbon,artichoke
+297,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,corned beef
+298,herring,corned beef,apples,olives,steak,avocado,artichoke
+299,baguette,herring,avocado,artichoke,Heineken,chicken,turkey
+300,sardines,Heineken,chicken,Coke,ice cream,steak,herring
+301,baguette,sardines,apples,peppers,avocado,corned beef,steak
+302,baguette,soda,herring,crackers,Heineken,bourbon,sardines
+303,corned beef,peppers,bourbon,crackers,chicken,apples,Heineken
+304,herring,corned beef,olives,ham,turkey,peppers,crackers
+305,herring,corned beef,apples,olives,steak,Bordeaux,Coke
+306,herring,corned beef,apples,olives,steak,soda,artichoke
+307,sardines,Heineken,chicken,Coke,ice cream,herring,crackers
+308,corned beef,peppers,bourbon,crackers,chicken,sardines,ham
+309,baguette,soda,herring,crackers,Heineken,turkey,steak
+310,herring,corned beef,olives,ham,turkey,Coke,sardines
+311,baguette,soda,herring,crackers,Heineken,apples,ham
+312,baguette,sardines,apples,peppers,avocado,soda,chicken
+313,herring,corned beef,apples,olives,steak,Heineken,sardines
+314,herring,corned beef,apples,olives,steak,turkey,Coke
+315,herring,corned beef,olives,ham,turkey,apples,steak
+316,olives,bourbon,Coke,turkey,ice cream,ham,corned beef
+317,olives,bourbon,Coke,turkey,ice cream,Heineken,baguette
+318,herring,corned beef,olives,ham,turkey,crackers,avocado
+319,baguette,herring,avocado,artichoke,Heineken,peppers,steak
+320,corned beef,peppers,bourbon,crackers,chicken,olives,turkey
+321,baguette,sardines,apples,peppers,avocado,Bordeaux,Heineken
+322,herring,corned beef,olives,ham,turkey,steak,steak
+323,baguette,soda,herring,crackers,Heineken,peppers,peppers
+324,sardines,Heineken,chicken,Coke,ice cream,ham,bourbon
+325,sardines,Heineken,chicken,Coke,ice cream,soda,avocado
+326,corned beef,peppers,bourbon,crackers,chicken,turkey,Coke
+327,soda,olives,bourbon,crackers,Heineken,corned beef,peppers
+328,soda,olives,bourbon,crackers,Heineken,Bordeaux,artichoke
+329,avocado,crackers,artichoke,Heineken,ham,Coke,ice cream
+330,herring,corned beef,olives,ham,turkey,soda,apples
+331,corned beef,peppers,bourbon,crackers,chicken,Heineken,apples
+332,baguette,soda,herring,crackers,Heineken,chicken,olives
+333,baguette,soda,herring,crackers,Heineken,turkey,sardines
+334,olives,bourbon,Coke,turkey,ice cream,crackers,Heineken
+335,soda,olives,bourbon,crackers,Heineken,Bordeaux,chicken
+336,baguette,herring,avocado,artichoke,Heineken,corned beef,apples
+337,sardines,Heineken,chicken,Coke,ice cream,corned beef,olives
+338,corned beef,peppers,bourbon,crackers,chicken,baguette,ham
+339,herring,corned beef,olives,ham,turkey,steak,chicken
+340,sardines,Heineken,chicken,Coke,ice cream,avocado,ham
+341,olives,bourbon,Coke,turkey,ice cream,peppers,herring
+342,soda,olives,bourbon,crackers,Heineken,herring,apples
+343,herring,corned beef,apples,olives,steak,crackers,ice cream
+344,baguette,soda,herring,crackers,Heineken,peppers,ice cream
+345,baguette,soda,herring,crackers,Heineken,Coke,olives
+346,corned beef,peppers,bourbon,crackers,chicken,ham,Heineken
+347,baguette,sardines,apples,peppers,avocado,olives,Heineken
+348,olives,bourbon,Coke,turkey,ice cream,corned beef,sardines
+349,sardines,Heineken,chicken,Coke,ice cream,soda,bourbon
+350,baguette,soda,herring,crackers,Heineken,corned beef,ham
+351,soda,olives,bourbon,crackers,Heineken,steak,herring
+352,baguette,soda,herring,crackers,Heineken,corned beef,sardines
+353,avocado,crackers,artichoke,Heineken,ham,bourbon,peppers
+354,soda,olives,bourbon,crackers,Heineken,apples,sardines
+355,baguette,herring,avocado,artichoke,Heineken,bourbon,bourbon
+356,baguette,herring,avocado,artichoke,Heineken,sardines,corned beef
+357,herring,corned beef,olives,ham,turkey,artichoke,crackers
+358,baguette,herring,avocado,artichoke,Heineken,olives,corned beef
+359,corned beef,peppers,bourbon,crackers,chicken,olives,ham
+360,avocado,crackers,artichoke,Heineken,ham,baguette,corned beef
+361,herring,corned beef,apples,olives,steak,crackers,Coke
+362,baguette,herring,avocado,artichoke,Heineken,bourbon,corned beef
+363,baguette,sardines,apples,peppers,avocado,turkey,turkey
+364,corned beef,peppers,bourbon,crackers,chicken,olives,olives
+365,corned beef,peppers,bourbon,crackers,chicken,olives,ice cream
+366,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,baguette
+367,herring,corned beef,apples,olives,steak,ham,avocado
+368,herring,corned beef,olives,ham,turkey,soda,steak
+369,baguette,herring,avocado,artichoke,Heineken,bourbon,turkey
+370,baguette,soda,herring,crackers,Heineken,ice cream,steak
+371,soda,olives,bourbon,crackers,Heineken,Bordeaux,baguette
+372,sardines,Heineken,chicken,Coke,ice cream,turkey,ham
+373,olives,bourbon,Coke,turkey,ice cream,peppers,chicken
+374,baguette,soda,herring,crackers,Heineken,olives,olives
+375,herring,corned beef,apples,olives,steak,Coke,crackers
+376,avocado,crackers,artichoke,Heineken,ham,soda,peppers
+377,baguette,herring,avocado,artichoke,Heineken,turkey,bourbon
+378,avocado,crackers,artichoke,Heineken,ham,sardines,turkey
+379,baguette,herring,avocado,artichoke,Heineken,Bordeaux,soda
+380,herring,corned beef,olives,ham,turkey,Heineken,Heineken
+381,baguette,sardines,apples,peppers,avocado,Bordeaux,Coke
+382,soda,olives,bourbon,crackers,Heineken,turkey,chicken
+383,corned beef,peppers,bourbon,crackers,chicken,ham,avocado
+384,baguette,sardines,apples,peppers,avocado,soda,steak
+385,avocado,crackers,artichoke,Heineken,ham,apples,soda
+386,herring,corned beef,olives,ham,turkey,baguette,ice cream
+387,herring,corned beef,olives,ham,turkey,soda,avocado
+388,sardines,Heineken,chicken,Coke,ice cream,crackers,peppers
+389,herring,corned beef,olives,ham,turkey,peppers,avocado
+390,baguette,soda,herring,crackers,Heineken,peppers,apples
+391,olives,bourbon,Coke,turkey,ice cream,ham,baguette
+392,baguette,sardines,apples,peppers,avocado,olives,ice cream
+393,baguette,herring,avocado,artichoke,Heineken,peppers,ham
+394,baguette,soda,herring,crackers,Heineken,bourbon,corned beef
+395,avocado,crackers,artichoke,Heineken,ham,chicken,soda
+396,baguette,soda,herring,crackers,Heineken,peppers,bourbon
+397,baguette,sardines,apples,peppers,avocado,Bordeaux,Coke
+398,herring,corned beef,olives,ham,turkey,Bordeaux,peppers
+399,soda,olives,bourbon,crackers,Heineken,Coke,corned beef
+400,avocado,crackers,artichoke,Heineken,ham,ice cream,bourbon
+401,soda,olives,bourbon,crackers,Heineken,corned beef,ham
+402,soda,olives,bourbon,crackers,Heineken,herring,Coke
+403,herring,corned beef,olives,ham,turkey,Bordeaux,ice cream
+404,baguette,sardines,apples,peppers,avocado,Heineken,corned beef
+405,corned beef,peppers,bourbon,crackers,chicken,Heineken,apples
+406,baguette,herring,avocado,artichoke,Heineken,steak,apples
+407,soda,olives,bourbon,crackers,Heineken,steak,artichoke
+408,baguette,herring,avocado,artichoke,Heineken,steak,turkey
+409,corned beef,peppers,bourbon,crackers,chicken,ice cream,apples
+410,baguette,sardines,apples,peppers,avocado,herring,crackers
+411,baguette,soda,herring,crackers,Heineken,steak,steak
+412,baguette,herring,avocado,artichoke,Heineken,Coke,turkey
+413,baguette,herring,avocado,artichoke,Heineken,soda,olives
+414,corned beef,peppers,bourbon,crackers,chicken,apples,steak
+415,herring,corned beef,olives,ham,turkey,steak,sardines
+416,avocado,crackers,artichoke,Heineken,ham,olives,ice cream
+417,herring,corned beef,olives,ham,turkey,crackers,avocado
+418,olives,bourbon,Coke,turkey,ice cream,herring,Heineken
+419,herring,corned beef,apples,olives,steak,bourbon,chicken
+420,baguette,soda,herring,crackers,Heineken,apples,Coke
+421,sardines,Heineken,chicken,Coke,ice cream,baguette,turkey
+422,corned beef,peppers,bourbon,crackers,chicken,Heineken,artichoke
+423,baguette,soda,herring,crackers,Heineken,apples,sardines
+424,herring,corned beef,olives,ham,turkey,artichoke,avocado
+425,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,herring
+426,baguette,sardines,apples,peppers,avocado,soda,ice cream
+427,baguette,soda,herring,crackers,Heineken,artichoke,apples
+428,avocado,crackers,artichoke,Heineken,ham,herring,turkey
+429,herring,corned beef,apples,olives,steak,chicken,soda
+430,avocado,crackers,artichoke,Heineken,ham,Coke,soda
+431,herring,corned beef,olives,ham,turkey,avocado,soda
+432,soda,olives,bourbon,crackers,Heineken,chicken,apples
+433,baguette,herring,avocado,artichoke,Heineken,sardines,peppers
+434,sardines,Heineken,chicken,Coke,ice cream,crackers,baguette
+435,sardines,Heineken,chicken,Coke,ice cream,corned beef,bourbon
+436,olives,bourbon,Coke,turkey,ice cream,peppers,apples
+437,avocado,crackers,artichoke,Heineken,ham,ice cream,bourbon
+438,baguette,soda,herring,crackers,Heineken,avocado,peppers
+439,sardines,Heineken,chicken,Coke,ice cream,peppers,peppers
+440,avocado,crackers,artichoke,Heineken,ham,corned beef,chicken
+441,corned beef,peppers,bourbon,crackers,chicken,baguette,steak
+442,baguette,soda,herring,crackers,Heineken,bourbon,peppers
+443,baguette,herring,avocado,artichoke,Heineken,turkey,apples
+444,olives,bourbon,Coke,turkey,ice cream,steak,chicken
+445,baguette,herring,avocado,artichoke,Heineken,ham,bourbon
+446,baguette,soda,herring,crackers,Heineken,ham,apples
+447,avocado,crackers,artichoke,Heineken,ham,Bordeaux,soda
+448,herring,corned beef,apples,olives,steak,soda,Coke
+449,baguette,soda,herring,crackers,Heineken,avocado,bourbon
+450,sardines,Heineken,chicken,Coke,ice cream,artichoke,baguette
+451,soda,olives,bourbon,crackers,Heineken,corned beef,artichoke
+452,baguette,soda,herring,crackers,Heineken,corned beef,olives
+453,avocado,crackers,artichoke,Heineken,ham,Coke,ice cream
+454,olives,bourbon,Coke,turkey,ice cream,Bordeaux,apples
+455,sardines,Heineken,chicken,Coke,ice cream,ham,peppers
+456,baguette,herring,avocado,artichoke,Heineken,sardines,apples
+457,avocado,crackers,artichoke,Heineken,ham,steak,steak
+458,sardines,Heineken,chicken,Coke,ice cream,turkey,bourbon
+459,olives,bourbon,Coke,turkey,ice cream,artichoke,Heineken
+460,soda,olives,bourbon,crackers,Heineken,chicken,baguette
+461,sardines,Heineken,chicken,Coke,ice cream,apples,crackers
+462,baguette,sardines,apples,peppers,avocado,Heineken,corned beef
+463,baguette,soda,herring,crackers,Heineken,ham,sardines
+464,baguette,sardines,apples,peppers,avocado,herring,soda
+465,avocado,crackers,artichoke,Heineken,ham,turkey,ice cream
+466,corned beef,peppers,bourbon,crackers,chicken,soda,ham
+467,olives,bourbon,Coke,turkey,ice cream,crackers,baguette
+468,baguette,soda,herring,crackers,Heineken,corned beef,ice cream
+469,corned beef,peppers,bourbon,crackers,chicken,artichoke,artichoke
+470,baguette,soda,herring,crackers,Heineken,corned beef,ham
+471,soda,olives,bourbon,crackers,Heineken,ice cream,turkey
+472,baguette,sardines,apples,peppers,avocado,corned beef,olives
+473,soda,olives,bourbon,crackers,Heineken,artichoke,ham
+474,herring,corned beef,apples,olives,steak,peppers,bourbon
+475,soda,olives,bourbon,crackers,Heineken,peppers,artichoke
+476,herring,corned beef,olives,ham,turkey,Bordeaux,baguette
+477,avocado,crackers,artichoke,Heineken,ham,sardines,ice cream
+478,baguette,soda,herring,crackers,Heineken,steak,steak
+479,avocado,crackers,artichoke,Heineken,ham,herring,peppers
+480,olives,bourbon,Coke,turkey,ice cream,chicken,chicken
+481,herring,corned beef,apples,olives,steak,chicken,ice cream
+482,herring,corned beef,olives,ham,turkey,avocado,apples
+483,baguette,soda,herring,crackers,Heineken,steak,ham
+484,herring,corned beef,olives,ham,turkey,Coke,ice cream
+485,baguette,sardines,apples,peppers,avocado,bourbon,crackers
+486,baguette,soda,herring,crackers,Heineken,steak,avocado
+487,herring,corned beef,apples,olives,steak,chicken,turkey
+488,baguette,soda,herring,crackers,Heineken,corned beef,turkey
+489,sardines,Heineken,chicken,Coke,ice cream,ham,corned beef
+490,herring,corned beef,olives,ham,turkey,Bordeaux,peppers
+491,corned beef,peppers,bourbon,crackers,chicken,ice cream,herring
+492,herring,corned beef,apples,olives,steak,avocado,peppers
+493,herring,corned beef,apples,olives,steak,artichoke,ice cream
+494,sardines,Heineken,chicken,Coke,ice cream,olives,bourbon
+495,avocado,crackers,artichoke,Heineken,ham,bourbon,soda
+496,corned beef,peppers,bourbon,crackers,chicken,olives,artichoke
+497,baguette,herring,avocado,artichoke,Heineken,olives,apples
+498,sardines,Heineken,chicken,Coke,ice cream,avocado,peppers
+499,herring,corned beef,olives,ham,turkey,steak,apples
+500,sardines,Heineken,chicken,Coke,ice cream,herring,herring
+501,sardines,Heineken,chicken,Coke,ice cream,apples,corned beef
+502,herring,corned beef,apples,olives,steak,turkey,ice cream
+503,baguette,herring,avocado,artichoke,Heineken,apples,peppers
+504,sardines,Heineken,chicken,Coke,ice cream,baguette,herring
+505,soda,olives,bourbon,crackers,Heineken,chicken,ice cream
+506,baguette,sardines,apples,peppers,avocado,turkey,ham
+507,baguette,soda,herring,crackers,Heineken,artichoke,turkey
+508,baguette,herring,avocado,artichoke,Heineken,crackers,chicken
+509,avocado,crackers,artichoke,Heineken,ham,ice cream,corned beef
+510,olives,bourbon,Coke,turkey,ice cream,Heineken,steak
+511,baguette,sardines,apples,peppers,avocado,steak,Heineken
+512,avocado,crackers,artichoke,Heineken,ham,Coke,apples
+513,corned beef,peppers,bourbon,crackers,chicken,Heineken,avocado
+514,soda,olives,bourbon,crackers,Heineken,herring,steak
+515,olives,bourbon,Coke,turkey,ice cream,baguette,chicken
+516,baguette,soda,herring,crackers,Heineken,sardines,olives
+517,olives,bourbon,Coke,turkey,ice cream,herring,Heineken
+518,soda,olives,bourbon,crackers,Heineken,peppers,ham
+519,corned beef,peppers,bourbon,crackers,chicken,soda,sardines
+520,sardines,Heineken,chicken,Coke,ice cream,soda,baguette
+521,corned beef,peppers,bourbon,crackers,chicken,artichoke,Coke
+522,sardines,Heineken,chicken,Coke,ice cream,artichoke,bourbon
+523,olives,bourbon,Coke,turkey,ice cream,avocado,sardines
+524,baguette,sardines,apples,peppers,avocado,crackers,crackers
+525,avocado,crackers,artichoke,Heineken,ham,peppers,Coke
+526,herring,corned beef,apples,olives,steak,Bordeaux,avocado
+527,baguette,herring,avocado,artichoke,Heineken,peppers,ham
+528,baguette,sardines,apples,peppers,avocado,Heineken,ham
+529,baguette,herring,avocado,artichoke,Heineken,bourbon,chicken
+530,baguette,soda,herring,crackers,Heineken,sardines,artichoke
+531,sardines,Heineken,chicken,Coke,ice cream,artichoke,turkey
+532,corned beef,peppers,bourbon,crackers,chicken,herring,artichoke
+533,soda,olives,bourbon,crackers,Heineken,ice cream,ice cream
+534,baguette,sardines,apples,peppers,avocado,corned beef,crackers
+535,olives,bourbon,Coke,turkey,ice cream,artichoke,crackers
+536,avocado,crackers,artichoke,Heineken,ham,peppers,steak
+537,herring,corned beef,olives,ham,turkey,bourbon,sardines
+538,avocado,crackers,artichoke,Heineken,ham,peppers,ice cream
+539,olives,bourbon,Coke,turkey,ice cream,steak,ham
+540,baguette,herring,avocado,artichoke,Heineken,Coke,ice cream
+541,soda,olives,bourbon,crackers,Heineken,turkey,herring
+542,herring,corned beef,apples,olives,steak,ham,baguette
+543,herring,corned beef,olives,ham,turkey,Heineken,soda
+544,herring,corned beef,olives,ham,turkey,peppers,baguette
+545,herring,corned beef,olives,ham,turkey,Coke,bourbon
+546,herring,corned beef,apples,olives,steak,sardines,turkey
+547,soda,olives,bourbon,crackers,Heineken,apples,artichoke
+548,herring,corned beef,olives,ham,turkey,Heineken,crackers
+549,avocado,crackers,artichoke,Heineken,ham,olives,Coke
+550,herring,corned beef,apples,olives,steak,soda,Coke
+551,baguette,herring,avocado,artichoke,Heineken,ham,ice cream
+552,baguette,herring,avocado,artichoke,Heineken,ice cream,steak
+553,baguette,soda,herring,crackers,Heineken,peppers,Coke
+554,corned beef,peppers,bourbon,crackers,chicken,Heineken,sardines
+555,sardines,Heineken,chicken,Coke,ice cream,olives,ham
+556,herring,corned beef,apples,olives,steak,avocado,ham
+557,herring,corned beef,apples,olives,steak,Bordeaux,artichoke
+558,herring,corned beef,olives,ham,turkey,bourbon,crackers
+559,baguette,soda,herring,crackers,Heineken,sardines,avocado
+560,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,steak
+561,avocado,crackers,artichoke,Heineken,ham,Bordeaux,ice cream
+562,sardines,Heineken,chicken,Coke,ice cream,soda,ham
+563,herring,corned beef,olives,ham,turkey,baguette,artichoke
+564,baguette,herring,avocado,artichoke,Heineken,peppers,peppers
+565,baguette,sardines,apples,peppers,avocado,corned beef,olives
+566,baguette,sardines,apples,peppers,avocado,soda,olives
+567,baguette,soda,herring,crackers,Heineken,chicken,olives
+568,baguette,soda,herring,crackers,Heineken,bourbon,sardines
+569,sardines,Heineken,chicken,Coke,ice cream,bourbon,soda
+570,baguette,soda,herring,crackers,Heineken,olives,avocado
+571,sardines,Heineken,chicken,Coke,ice cream,avocado,olives
+572,avocado,crackers,artichoke,Heineken,ham,bourbon,ice cream
+573,baguette,soda,herring,crackers,Heineken,chicken,steak
+574,herring,corned beef,olives,ham,turkey,artichoke,steak
+575,baguette,soda,herring,crackers,Heineken,apples,steak
+576,baguette,sardines,apples,peppers,avocado,turkey,corned beef
+577,olives,bourbon,Coke,turkey,ice cream,Bordeaux,corned beef
+578,sardines,Heineken,chicken,Coke,ice cream,artichoke,steak
+579,soda,olives,bourbon,crackers,Heineken,Bordeaux,chicken
+580,corned beef,peppers,bourbon,crackers,chicken,Coke,soda
+581,herring,corned beef,olives,ham,turkey,soda,crackers
+582,herring,corned beef,apples,olives,steak,baguette,peppers
+583,baguette,sardines,apples,peppers,avocado,herring,ice cream
+584,corned beef,peppers,bourbon,crackers,chicken,Bordeaux,ice cream
+585,corned beef,peppers,bourbon,crackers,chicken,steak,baguette
+586,corned beef,peppers,bourbon,crackers,chicken,baguette,ham
+587,baguette,sardines,apples,peppers,avocado,artichoke,crackers
+588,corned beef,peppers,bourbon,crackers,chicken,apples,baguette
+589,baguette,sardines,apples,peppers,avocado,bourbon,bourbon
+590,herring,corned beef,olives,ham,turkey,bourbon,peppers
+591,olives,bourbon,Coke,turkey,ice cream,peppers,soda
+592,herring,corned beef,apples,olives,steak,bourbon,avocado
+593,avocado,crackers,artichoke,Heineken,ham,turkey,herring
+594,corned beef,peppers,bourbon,crackers,chicken,ham,steak
+595,sardines,Heineken,chicken,Coke,ice cream,crackers,baguette
+596,sardines,Heineken,chicken,Coke,ice cream,olives,peppers
+597,baguette,soda,herring,crackers,Heineken,artichoke,peppers
+598,baguette,sardines,apples,peppers,avocado,steak,olives
+599,baguette,soda,herring,crackers,Heineken,chicken,chicken
+600,soda,olives,bourbon,crackers,Heineken,steak,herring
+601,olives,bourbon,Coke,turkey,ice cream,corned beef,apples
+602,herring,corned beef,apples,olives,steak,artichoke,sardines
+603,olives,bourbon,Coke,turkey,ice cream,ham,apples
+604,corned beef,peppers,bourbon,crackers,chicken,baguette,steak
+605,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,bourbon
+606,herring,corned beef,apples,olives,steak,bourbon,Coke
+607,sardines,Heineken,chicken,Coke,ice cream,peppers,bourbon
+608,corned beef,peppers,bourbon,crackers,chicken,ham,steak
+609,herring,corned beef,olives,ham,turkey,Coke,crackers
+610,sardines,Heineken,chicken,Coke,ice cream,avocado,olives
+611,sardines,Heineken,chicken,Coke,ice cream,corned beef,turkey
+612,baguette,herring,avocado,artichoke,Heineken,chicken,apples
+613,avocado,crackers,artichoke,Heineken,ham,baguette,Coke
+614,soda,olives,bourbon,crackers,Heineken,herring,peppers
+615,olives,bourbon,Coke,turkey,ice cream,sardines,steak
+616,soda,olives,bourbon,crackers,Heineken,peppers,chicken
+617,soda,olives,bourbon,crackers,Heineken,herring,Coke
+618,soda,olives,bourbon,crackers,Heineken,corned beef,steak
+619,herring,corned beef,apples,olives,steak,avocado,peppers
+620,olives,bourbon,Coke,turkey,ice cream,peppers,peppers
+621,olives,bourbon,Coke,turkey,ice cream,herring,artichoke
+622,corned beef,peppers,bourbon,crackers,chicken,turkey,apples
+623,corned beef,peppers,bourbon,crackers,chicken,baguette,Coke
+624,soda,olives,bourbon,crackers,Heineken,herring,Coke
+625,corned beef,peppers,bourbon,crackers,chicken,soda,artichoke
+626,olives,bourbon,Coke,turkey,ice cream,Bordeaux,crackers
+627,baguette,soda,herring,crackers,Heineken,apples,olives
+628,baguette,herring,avocado,artichoke,Heineken,ice cream,sardines
+629,baguette,herring,avocado,artichoke,Heineken,chicken,turkey
+630,baguette,soda,herring,crackers,Heineken,peppers,chicken
+631,soda,olives,bourbon,crackers,Heineken,peppers,turkey
+632,olives,bourbon,Coke,turkey,ice cream,sardines,apples
+633,corned beef,peppers,bourbon,crackers,chicken,Bordeaux,ice cream
+634,baguette,sardines,apples,peppers,avocado,ice cream,ice cream
+635,baguette,herring,avocado,artichoke,Heineken,apples,soda
+636,herring,corned beef,olives,ham,turkey,baguette,bourbon
+637,baguette,soda,herring,crackers,Heineken,Coke,ice cream
+638,baguette,herring,avocado,artichoke,Heineken,olives,corned beef
+639,avocado,crackers,artichoke,Heineken,ham,sardines,sardines
+640,herring,corned beef,apples,olives,steak,sardines,chicken
+641,baguette,sardines,apples,peppers,avocado,Bordeaux,artichoke
+642,avocado,crackers,artichoke,Heineken,ham,sardines,steak
+643,baguette,soda,herring,crackers,Heineken,turkey,artichoke
+644,sardines,Heineken,chicken,Coke,ice cream,baguette,artichoke
+645,soda,olives,bourbon,crackers,Heineken,steak,chicken
+646,baguette,sardines,apples,peppers,avocado,steak,bourbon
+647,soda,olives,bourbon,crackers,Heineken,ham,turkey
+648,soda,olives,bourbon,crackers,Heineken,steak,baguette
+649,avocado,crackers,artichoke,Heineken,ham,bourbon,apples
+650,olives,bourbon,Coke,turkey,ice cream,soda,sardines
+651,baguette,soda,herring,crackers,Heineken,corned beef,avocado
+652,olives,bourbon,Coke,turkey,ice cream,steak,artichoke
+653,herring,corned beef,olives,ham,turkey,ice cream,ice cream
+654,olives,bourbon,Coke,turkey,ice cream,chicken,crackers
+655,baguette,herring,avocado,artichoke,Heineken,Coke,ham
+656,soda,olives,bourbon,crackers,Heineken,apples,artichoke
+657,baguette,sardines,apples,peppers,avocado,steak,Coke
+658,avocado,crackers,artichoke,Heineken,ham,herring,chicken
+659,olives,bourbon,Coke,turkey,ice cream,Bordeaux,apples
+660,herring,corned beef,apples,olives,steak,chicken,artichoke
+661,sardines,Heineken,chicken,Coke,ice cream,crackers,apples
+662,herring,corned beef,apples,olives,steak,crackers,peppers
+663,baguette,soda,herring,crackers,Heineken,olives,apples
+664,herring,corned beef,apples,olives,steak,ice cream,soda
+665,baguette,herring,avocado,artichoke,Heineken,ice cream,soda
+666,baguette,sardines,apples,peppers,avocado,ice cream,bourbon
+667,baguette,herring,avocado,artichoke,Heineken,Bordeaux,peppers
+668,corned beef,peppers,bourbon,crackers,chicken,steak,baguette
+669,corned beef,peppers,bourbon,crackers,chicken,apples,Heineken
+670,olives,bourbon,Coke,turkey,ice cream,sardines,peppers
+671,herring,corned beef,olives,ham,turkey,bourbon,Heineken
+672,olives,bourbon,Coke,turkey,ice cream,peppers,steak
+673,baguette,herring,avocado,artichoke,Heineken,sardines,corned beef
+674,olives,bourbon,Coke,turkey,ice cream,baguette,steak
+675,soda,olives,bourbon,crackers,Heineken,sardines,Coke
+676,herring,corned beef,apples,olives,steak,sardines,peppers
+677,sardines,Heineken,chicken,Coke,ice cream,ham,avocado
+678,avocado,crackers,artichoke,Heineken,ham,apples,ice cream
+679,corned beef,peppers,bourbon,crackers,chicken,avocado,soda
+680,herring,corned beef,olives,ham,turkey,apples,avocado
+681,soda,olives,bourbon,crackers,Heineken,corned beef,apples
+682,herring,corned beef,apples,olives,steak,ice cream,artichoke
+683,corned beef,peppers,bourbon,crackers,chicken,steak,steak
+684,corned beef,peppers,bourbon,crackers,chicken,Bordeaux,ice cream
+685,baguette,soda,herring,crackers,Heineken,olives,ice cream
+686,baguette,sardines,apples,peppers,avocado,soda,olives
+687,soda,olives,bourbon,crackers,Heineken,herring,chicken
+688,herring,corned beef,apples,olives,steak,ice cream,baguette
+689,corned beef,peppers,bourbon,crackers,chicken,artichoke,artichoke
+690,baguette,herring,avocado,artichoke,Heineken,turkey,steak
+691,herring,corned beef,apples,olives,steak,avocado,peppers
+692,baguette,sardines,apples,peppers,avocado,Coke,chicken
+693,baguette,herring,avocado,artichoke,Heineken,sardines,apples
+694,baguette,soda,herring,crackers,Heineken,peppers,chicken
+695,olives,bourbon,Coke,turkey,ice cream,steak,steak
+696,avocado,crackers,artichoke,Heineken,ham,peppers,corned beef
+697,soda,olives,bourbon,crackers,Heineken,Bordeaux,artichoke
+698,baguette,soda,herring,crackers,Heineken,chicken,turkey
+699,soda,olives,bourbon,crackers,Heineken,artichoke,herring
+700,baguette,sardines,apples,peppers,avocado,herring,bourbon
+701,avocado,crackers,artichoke,Heineken,ham,Coke,sardines
+702,baguette,sardines,apples,peppers,avocado,bourbon,soda
+703,corned beef,peppers,bourbon,crackers,chicken,avocado,sardines
+704,sardines,Heineken,chicken,Coke,ice cream,artichoke,bourbon
+705,baguette,herring,avocado,artichoke,Heineken,apples,soda
+706,avocado,crackers,artichoke,Heineken,ham,corned beef,peppers
+707,corned beef,peppers,bourbon,crackers,chicken,steak,soda
+708,baguette,herring,avocado,artichoke,Heineken,Bordeaux,crackers
+709,avocado,crackers,artichoke,Heineken,ham,ice cream,olives
+710,herring,corned beef,olives,ham,turkey,crackers,chicken
+711,sardines,Heineken,chicken,Coke,ice cream,baguette,olives
+712,sardines,Heineken,chicken,Coke,ice cream,artichoke,artichoke
+713,herring,corned beef,olives,ham,turkey,Heineken,crackers
+714,herring,corned beef,apples,olives,steak,sardines,chicken
+715,avocado,crackers,artichoke,Heineken,ham,corned beef,olives
+716,olives,bourbon,Coke,turkey,ice cream,ham,artichoke
+717,corned beef,peppers,bourbon,crackers,chicken,baguette,Heineken
+718,herring,corned beef,olives,ham,turkey,peppers,apples
+719,herring,corned beef,olives,ham,turkey,Heineken,Heineken
+720,olives,bourbon,Coke,turkey,ice cream,ham,baguette
+721,baguette,herring,avocado,artichoke,Heineken,corned beef,steak
+722,baguette,soda,herring,crackers,Heineken,avocado,steak
+723,olives,bourbon,Coke,turkey,ice cream,Heineken,baguette
+724,herring,corned beef,olives,ham,turkey,crackers,avocado
+725,avocado,crackers,artichoke,Heineken,ham,peppers,corned beef
+726,soda,olives,bourbon,crackers,Heineken,avocado,avocado
+727,baguette,soda,herring,crackers,Heineken,artichoke,turkey
+728,olives,bourbon,Coke,turkey,ice cream,crackers,baguette
+729,sardines,Heineken,chicken,Coke,ice cream,baguette,steak
+730,baguette,herring,avocado,artichoke,Heineken,olives,crackers
+731,herring,corned beef,olives,ham,turkey,chicken,sardines
+732,avocado,crackers,artichoke,Heineken,ham,apples,baguette
+733,soda,olives,bourbon,crackers,Heineken,steak,corned beef
+734,herring,corned beef,olives,ham,turkey,Bordeaux,steak
+735,baguette,soda,herring,crackers,Heineken,Bordeaux,peppers
+736,olives,bourbon,Coke,turkey,ice cream,peppers,peppers
+737,avocado,crackers,artichoke,Heineken,ham,turkey,corned beef
+738,baguette,herring,avocado,artichoke,Heineken,chicken,bourbon
+739,corned beef,peppers,bourbon,crackers,chicken,steak,ice cream
+740,soda,olives,bourbon,crackers,Heineken,ice cream,peppers
+741,baguette,soda,herring,crackers,Heineken,Coke,Coke
+742,herring,corned beef,apples,olives,steak,sardines,crackers
+743,baguette,soda,herring,crackers,Heineken,olives,apples
+744,avocado,crackers,artichoke,Heineken,ham,Bordeaux,olives
+745,herring,corned beef,apples,olives,steak,Bordeaux,ham
+746,baguette,herring,avocado,artichoke,Heineken,apples,bourbon
+747,soda,olives,bourbon,crackers,Heineken,peppers,steak
+748,baguette,soda,herring,crackers,Heineken,olives,avocado
+749,olives,bourbon,Coke,turkey,ice cream,baguette,apples
+750,soda,olives,bourbon,crackers,Heineken,turkey,herring
+751,baguette,herring,avocado,artichoke,Heineken,corned beef,crackers
+752,herring,corned beef,apples,olives,steak,ham,Heineken
+753,corned beef,peppers,bourbon,crackers,chicken,artichoke,Heineken
+754,baguette,soda,herring,crackers,Heineken,avocado,steak
+755,herring,corned beef,olives,ham,turkey,steak,avocado
+756,sardines,Heineken,chicken,Coke,ice cream,soda,artichoke
+757,olives,bourbon,Coke,turkey,ice cream,steak,Heineken
+758,herring,corned beef,apples,olives,steak,artichoke,chicken
+759,corned beef,peppers,bourbon,crackers,chicken,soda,herring
+760,sardines,Heineken,chicken,Coke,ice cream,ham,ham
+761,sardines,Heineken,chicken,Coke,ice cream,herring,corned beef
+762,sardines,Heineken,chicken,Coke,ice cream,apples,apples
+763,corned beef,peppers,bourbon,crackers,chicken,apples,olives
+764,herring,corned beef,olives,ham,turkey,bourbon,chicken
+765,soda,olives,bourbon,crackers,Heineken,Coke,apples
+766,baguette,sardines,apples,peppers,avocado,artichoke,artichoke
+767,baguette,soda,herring,crackers,Heineken,artichoke,avocado
+768,baguette,sardines,apples,peppers,avocado,Heineken,Coke
+769,herring,corned beef,olives,ham,turkey,baguette,avocado
+770,soda,olives,bourbon,crackers,Heineken,Bordeaux,ice cream
+771,baguette,sardines,apples,peppers,avocado,ham,herring
+772,herring,corned beef,olives,ham,turkey,Heineken,sardines
+773,avocado,crackers,artichoke,Heineken,ham,herring,olives
+774,soda,olives,bourbon,crackers,Heineken,peppers,artichoke
+775,baguette,sardines,apples,peppers,avocado,corned beef,Coke
+776,sardines,Heineken,chicken,Coke,ice cream,apples,ham
+777,corned beef,peppers,bourbon,crackers,chicken,Coke,herring
+778,baguette,herring,avocado,artichoke,Heineken,Bordeaux,crackers
+779,olives,bourbon,Coke,turkey,ice cream,apples,artichoke
+780,baguette,herring,avocado,artichoke,Heineken,steak,steak
+781,baguette,soda,herring,crackers,Heineken,ham,sardines
+782,herring,corned beef,olives,ham,turkey,peppers,ice cream
+783,soda,olives,bourbon,crackers,Heineken,herring,baguette
+784,baguette,herring,avocado,artichoke,Heineken,Coke,steak
+785,sardines,Heineken,chicken,Coke,ice cream,bourbon,artichoke
+786,soda,olives,bourbon,crackers,Heineken,ice cream,ice cream
+787,avocado,crackers,artichoke,Heineken,ham,turkey,herring
+788,herring,corned beef,apples,olives,steak,Bordeaux,crackers
+789,herring,corned beef,olives,ham,turkey,Heineken,bourbon
+790,baguette,soda,herring,crackers,Heineken,ice cream,apples
+791,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,turkey
+792,olives,bourbon,Coke,turkey,ice cream,sardines,ham
+793,olives,bourbon,Coke,turkey,ice cream,herring,crackers
+794,herring,corned beef,apples,olives,steak,baguette,ice cream
+795,baguette,soda,herring,crackers,Heineken,Bordeaux,ice cream
+796,avocado,crackers,artichoke,Heineken,ham,turkey,sardines
+797,soda,olives,bourbon,crackers,Heineken,peppers,chicken
+798,baguette,sardines,apples,peppers,avocado,turkey,crackers
+799,baguette,soda,herring,crackers,Heineken,avocado,ham
+800,olives,bourbon,Coke,turkey,ice cream,soda,apples
+801,baguette,herring,avocado,artichoke,Heineken,turkey,chicken
+802,herring,corned beef,apples,olives,steak,bourbon,bourbon
+803,avocado,crackers,artichoke,Heineken,ham,soda,peppers
+804,baguette,herring,avocado,artichoke,Heineken,crackers,crackers
+805,corned beef,peppers,bourbon,crackers,chicken,baguette,soda
+806,baguette,soda,herring,crackers,Heineken,bourbon,ice cream
+807,avocado,crackers,artichoke,Heineken,ham,sardines,corned beef
+808,herring,corned beef,olives,ham,turkey,bourbon,soda
+809,olives,bourbon,Coke,turkey,ice cream,soda,corned beef
+810,baguette,sardines,apples,peppers,avocado,herring,ham
+811,avocado,crackers,artichoke,Heineken,ham,olives,bourbon
+812,baguette,sardines,apples,peppers,avocado,Coke,corned beef
+813,sardines,Heineken,chicken,Coke,ice cream,herring,artichoke
+814,soda,olives,bourbon,crackers,Heineken,baguette,herring
+815,baguette,sardines,apples,peppers,avocado,artichoke,Heineken
+816,olives,bourbon,Coke,turkey,ice cream,ham,corned beef
+817,corned beef,peppers,bourbon,crackers,chicken,baguette,apples
+818,soda,olives,bourbon,crackers,Heineken,apples,apples
+819,baguette,herring,avocado,artichoke,Heineken,crackers,sardines
+820,soda,olives,bourbon,crackers,Heineken,baguette,chicken
+821,herring,corned beef,apples,olives,steak,sardines,soda
+822,baguette,soda,herring,crackers,Heineken,avocado,chicken
+823,baguette,herring,avocado,artichoke,Heineken,apples,apples
+824,baguette,sardines,apples,peppers,avocado,Heineken,ice cream
+825,baguette,soda,herring,crackers,Heineken,Coke,Coke
+826,sardines,Heineken,chicken,Coke,ice cream,crackers,apples
+827,baguette,soda,herring,crackers,Heineken,steak,chicken
+828,avocado,crackers,artichoke,Heineken,ham,steak,steak
+829,baguette,herring,avocado,artichoke,Heineken,ham,chicken
+830,corned beef,peppers,bourbon,crackers,chicken,Heineken,artichoke
+831,herring,corned beef,olives,ham,turkey,Bordeaux,baguette
+832,corned beef,peppers,bourbon,crackers,chicken,Heineken,turkey
+833,baguette,soda,herring,crackers,Heineken,artichoke,chicken
+834,sardines,Heineken,chicken,Coke,ice cream,apples,ham
+835,olives,bourbon,Coke,turkey,ice cream,herring,sardines
+836,baguette,soda,herring,crackers,Heineken,apples,sardines
+837,baguette,herring,avocado,artichoke,Heineken,apples,apples
+838,baguette,herring,avocado,artichoke,Heineken,Bordeaux,ham
+839,avocado,crackers,artichoke,Heineken,ham,olives,steak
+840,baguette,soda,herring,crackers,Heineken,chicken,ice cream
+841,baguette,soda,herring,crackers,Heineken,bourbon,olives
+842,sardines,Heineken,chicken,Coke,ice cream,crackers,ham
+843,avocado,crackers,artichoke,Heineken,ham,Coke,soda
+844,corned beef,peppers,bourbon,crackers,chicken,soda,olives
+845,baguette,sardines,apples,peppers,avocado,bourbon,bourbon
+846,herring,corned beef,olives,ham,turkey,chicken,apples
+847,sardines,Heineken,chicken,Coke,ice cream,baguette,bourbon
+848,baguette,soda,herring,crackers,Heineken,corned beef,artichoke
+849,olives,bourbon,Coke,turkey,ice cream,baguette,Heineken
+850,avocado,crackers,artichoke,Heineken,ham,Bordeaux,peppers
+851,herring,corned beef,olives,ham,turkey,Coke,apples
+852,sardines,Heineken,chicken,Coke,ice cream,peppers,olives
+853,herring,corned beef,olives,ham,turkey,artichoke,baguette
+854,soda,olives,bourbon,crackers,Heineken,herring,steak
+855,olives,bourbon,Coke,turkey,ice cream,artichoke,ham
+856,baguette,sardines,apples,peppers,avocado,steak,corned beef
+857,sardines,Heineken,chicken,Coke,ice cream,apples,artichoke
+858,herring,corned beef,olives,ham,turkey,ice cream,steak
+859,herring,corned beef,apples,olives,steak,Bordeaux,turkey
+860,corned beef,peppers,bourbon,crackers,chicken,baguette,artichoke
+861,baguette,sardines,apples,peppers,avocado,crackers,Heineken
+862,herring,corned beef,olives,ham,turkey,avocado,artichoke
+863,olives,bourbon,Coke,turkey,ice cream,steak,soda
+864,herring,corned beef,olives,ham,turkey,steak,Heineken
+865,sardines,Heineken,chicken,Coke,ice cream,soda,apples
+866,soda,olives,bourbon,crackers,Heineken,turkey,sardines
+867,herring,corned beef,apples,olives,steak,crackers,sardines
+868,baguette,sardines,apples,peppers,avocado,Coke,ice cream
+869,avocado,crackers,artichoke,Heineken,ham,Bordeaux,herring
+870,herring,corned beef,apples,olives,steak,ham,ham
+871,corned beef,peppers,bourbon,crackers,chicken,Heineken,sardines
+872,herring,corned beef,olives,ham,turkey,artichoke,bourbon
+873,herring,corned beef,apples,olives,steak,ham,Coke
+874,herring,corned beef,olives,ham,turkey,apples,bourbon
+875,baguette,soda,herring,crackers,Heineken,artichoke,turkey
+876,sardines,Heineken,chicken,Coke,ice cream,bourbon,olives
+877,avocado,crackers,artichoke,Heineken,ham,Bordeaux,corned beef
+878,herring,corned beef,olives,ham,turkey,sardines,steak
+879,sardines,Heineken,chicken,Coke,ice cream,olives,corned beef
+880,soda,olives,bourbon,crackers,Heineken,chicken,apples
+881,sardines,Heineken,chicken,Coke,ice cream,herring,bourbon
+882,sardines,Heineken,chicken,Coke,ice cream,bourbon,peppers
+883,herring,corned beef,apples,olives,steak,Bordeaux,baguette
+884,avocado,crackers,artichoke,Heineken,ham,soda,bourbon
+885,baguette,herring,avocado,artichoke,Heineken,olives,olives
+886,corned beef,peppers,bourbon,crackers,chicken,artichoke,herring
+887,olives,bourbon,Coke,turkey,ice cream,soda,sardines
+888,sardines,Heineken,chicken,Coke,ice cream,peppers,crackers
+889,avocado,crackers,artichoke,Heineken,ham,apples,peppers
+890,baguette,herring,avocado,artichoke,Heineken,olives,chicken
+891,baguette,herring,avocado,artichoke,Heineken,bourbon,corned beef
+892,corned beef,peppers,bourbon,crackers,chicken,apples,soda
+893,soda,olives,bourbon,crackers,Heineken,ice cream,apples
+894,baguette,herring,avocado,artichoke,Heineken,steak,chicken
+895,baguette,sardines,apples,peppers,avocado,ice cream,soda
+896,sardines,Heineken,chicken,Coke,ice cream,artichoke,corned beef
+897,sardines,Heineken,chicken,Coke,ice cream,baguette,artichoke
+898,avocado,crackers,artichoke,Heineken,ham,corned beef,bourbon
+899,baguette,soda,herring,crackers,Heineken,sardines,peppers
+900,sardines,Heineken,chicken,Coke,ice cream,peppers,bourbon
+901,baguette,sardines,apples,peppers,avocado,Coke,steak
+902,baguette,soda,herring,crackers,Heineken,apples,chicken
+903,soda,olives,bourbon,crackers,Heineken,peppers,apples
+904,soda,olives,bourbon,crackers,Heineken,turkey,herring
+905,soda,olives,bourbon,crackers,Heineken,turkey,avocado
+906,herring,corned beef,apples,olives,steak,chicken,artichoke
+907,baguette,sardines,apples,peppers,avocado,olives,turkey
+908,herring,corned beef,olives,ham,turkey,chicken,peppers
+909,baguette,soda,herring,crackers,Heineken,avocado,steak
+910,sardines,Heineken,chicken,Coke,ice cream,steak,ham
+911,herring,corned beef,apples,olives,steak,Coke,Heineken
+912,herring,corned beef,apples,olives,steak,peppers,ice cream
+913,herring,corned beef,apples,olives,steak,ham,Heineken
+914,soda,olives,bourbon,crackers,Heineken,baguette,artichoke
+915,herring,corned beef,apples,olives,steak,turkey,baguette
+916,avocado,crackers,artichoke,Heineken,ham,steak,steak
+917,baguette,herring,avocado,artichoke,Heineken,Bordeaux,Coke
+918,baguette,soda,herring,crackers,Heineken,apples,artichoke
+919,baguette,herring,avocado,artichoke,Heineken,olives,crackers
+920,sardines,Heineken,chicken,Coke,ice cream,steak,crackers
+921,avocado,crackers,artichoke,Heineken,ham,ice cream,apples
+922,sardines,Heineken,chicken,Coke,ice cream,bourbon,turkey
+923,soda,olives,bourbon,crackers,Heineken,sardines,avocado
+924,baguette,sardines,apples,peppers,avocado,bourbon,Coke
+925,soda,olives,bourbon,crackers,Heineken,herring,herring
+926,baguette,sardines,apples,peppers,avocado,chicken,herring
+927,olives,bourbon,Coke,turkey,ice cream,crackers,baguette
+928,baguette,sardines,apples,peppers,avocado,bourbon,olives
+929,sardines,Heineken,chicken,Coke,ice cream,artichoke,turkey
+930,herring,corned beef,olives,ham,turkey,soda,soda
+931,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,olives
+932,corned beef,peppers,bourbon,crackers,chicken,herring,steak
+933,sardines,Heineken,chicken,Coke,ice cream,corned beef,steak
+934,herring,corned beef,olives,ham,turkey,chicken,bourbon
+935,herring,corned beef,apples,olives,steak,turkey,ice cream
+936,baguette,herring,avocado,artichoke,Heineken,turkey,turkey
+937,baguette,sardines,apples,peppers,avocado,ice cream,olives
+938,soda,olives,bourbon,crackers,Heineken,baguette,peppers
+939,baguette,herring,avocado,artichoke,Heineken,bourbon,steak
+940,baguette,sardines,apples,peppers,avocado,bourbon,bourbon
+941,baguette,soda,herring,crackers,Heineken,steak,corned beef
+942,avocado,crackers,artichoke,Heineken,ham,turkey,chicken
+943,baguette,sardines,apples,peppers,avocado,bourbon,chicken
+944,sardines,Heineken,chicken,Coke,ice cream,avocado,crackers
+945,baguette,sardines,apples,peppers,avocado,Coke,crackers
+946,soda,olives,bourbon,crackers,Heineken,turkey,artichoke
+947,baguette,soda,herring,crackers,Heineken,steak,olives
+948,sardines,Heineken,chicken,Coke,ice cream,Bordeaux,crackers
+949,olives,bourbon,Coke,turkey,ice cream,ham,artichoke
+950,baguette,soda,herring,crackers,Heineken,Coke,avocado
+951,baguette,soda,herring,crackers,Heineken,steak,sardines
+952,baguette,soda,herring,crackers,Heineken,chicken,corned beef
+953,baguette,soda,herring,crackers,Heineken,sardines,artichoke
+954,herring,corned beef,olives,ham,turkey,bourbon,soda
+955,soda,olives,bourbon,crackers,Heineken,corned beef,herring
+956,corned beef,peppers,bourbon,crackers,chicken,soda,olives
+957,sardines,Heineken,chicken,Coke,ice cream,olives,crackers
+958,corned beef,peppers,bourbon,crackers,chicken,Heineken,apples
+959,herring,corned beef,olives,ham,turkey,soda,bourbon
+960,soda,olives,bourbon,crackers,Heineken,Coke,ice cream
+961,soda,olives,bourbon,crackers,Heineken,sardines,peppers
+962,baguette,sardines,apples,peppers,avocado,ice cream,Coke
+963,corned beef,peppers,bourbon,crackers,chicken,artichoke,artichoke
+964,herring,corned beef,olives,ham,turkey,Heineken,artichoke
+965,corned beef,peppers,bourbon,crackers,chicken,Heineken,turkey
+966,baguette,soda,herring,crackers,Heineken,turkey,bourbon
+967,baguette,herring,avocado,artichoke,Heineken,apples,corned beef
+968,herring,corned beef,olives,ham,turkey,peppers,sardines
+969,sardines,Heineken,chicken,Coke,ice cream,ham,baguette
+970,herring,corned beef,olives,ham,turkey,artichoke,baguette
+971,corned beef,peppers,bourbon,crackers,chicken,Coke,apples
+972,baguette,soda,herring,crackers,Heineken,ice cream,Coke
+973,baguette,sardines,apples,peppers,avocado,bourbon,ice cream
+974,baguette,soda,herring,crackers,Heineken,ham,bourbon
+975,avocado,crackers,artichoke,Heineken,ham,steak,herring
+976,olives,bourbon,Coke,turkey,ice cream,corned beef,crackers
+977,avocado,crackers,artichoke,Heineken,ham,apples,herring
+978,herring,corned beef,apples,olives,steak,chicken,avocado
+979,baguette,herring,avocado,artichoke,Heineken,bourbon,bourbon
+980,baguette,soda,herring,crackers,Heineken,steak,artichoke
+981,olives,bourbon,Coke,turkey,ice cream,artichoke,ham
+982,baguette,soda,herring,crackers,Heineken,bourbon,peppers
+983,sardines,Heineken,chicken,Coke,ice cream,ham,soda
+984,olives,bourbon,Coke,turkey,ice cream,apples,sardines
+985,soda,olives,bourbon,crackers,Heineken,Coke,ham
+986,soda,olives,bourbon,crackers,Heineken,Coke,baguette
+987,baguette,soda,herring,crackers,Heineken,chicken,peppers
+988,soda,olives,bourbon,crackers,Heineken,corned beef,chicken
+989,herring,corned beef,apples,olives,steak,turkey,ice cream
+990,sardines,Heineken,chicken,Coke,ice cream,herring,olives
+991,olives,bourbon,Coke,turkey,ice cream,apples,soda
+992,avocado,crackers,artichoke,Heineken,ham,chicken,chicken
+993,herring,corned beef,apples,olives,steak,crackers,artichoke
+994,baguette,herring,avocado,artichoke,Heineken,chicken,apples
+995,baguette,soda,herring,crackers,Heineken,ice cream,steak
+996,avocado,crackers,artichoke,Heineken,ham,chicken,bourbon
+997,herring,corned beef,olives,ham,turkey,baguette,apples
+998,baguette,soda,herring,crackers,Heineken,sardines,sardines
+999,sardines,Heineken,chicken,Coke,ice cream,corned beef,peppers
+1000,herring,corned beef,apples,olives,steak,bourbon,Heineken
